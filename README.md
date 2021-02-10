@@ -40,7 +40,7 @@ The website will be used for marketing purposes, therefore will be designed to b
 
 ## Features
 
- - Responsive on all devices.
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
