@@ -23,7 +23,7 @@ The website will be used for marketing purposes, therefore will be designed to b
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are red, blue, and white.
+        -   The main colours used are red, blue, and white.
     -   #### Typography
         -   The Oswald font is the main font used throughout the website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Oswald is a reworking of the classic style historically represented by the 'Alternate Gothic' sans serif typefaces.
     -   #### Imagery
@@ -31,11 +31,11 @@ The website will be used for marketing purposes, therefore will be designed to b
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Mobile - [View](assets/wireframes/FITS_Catering-Mobile.pdf)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Tablet / iPad - [View](assets/wireframes/FITS_Catering-Tablet.pdf)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Desktop / Laptop - [View](assets/wireframes/FITS_Catering-Desktop_Laptop.pdf)
 
 
 ## Features
