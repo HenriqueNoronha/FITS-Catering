@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*-----------------------GENERAL-----------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+    font-family: Oswald;
+}
+
+/*-----------------------LOGO/HEADER-----------------------*/
+
+header h1 {
+    line-height: 65px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 400;
+    color: #e0dee4;
+    font-size: 46px;
+    padding-left: 20px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+/*-----------------------NAVBAR-----------------------*/
+
+#navigation {
+
+}

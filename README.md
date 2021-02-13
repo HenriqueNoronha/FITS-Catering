@@ -23,7 +23,7 @@ The website will be used for marketing purposes, therefore will be designed to b
 
 -   ### Design
     -   #### Colour Scheme
-        -   The main colours used are red, blue, and white.
+        -   The main colours used are red, blue, and silver (HEX: ef0b33, 0b41ac, e0dee4).
     -   #### Typography
         -   The Oswald font is the main font used throughout the website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Oswald is a reworking of the classic style historically represented by the 'Alternate Gothic' sans serif typefaces.
     -   #### Imagery
@@ -103,6 +103,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- README.md template from Code Institute @ https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md
-- README.md example from Code Institute @ https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md
+- README.md template from Code Institute @ https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md.
+- README.md example from Code Institute @ https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md.
+- For text outline in the logo, instead of using the experimental webkit property called "text-stroke", which is not supported by all browsers, I used the method found @ https://stackoverflow.com/questions/4919076/outline-effect-to-text.
 - 
