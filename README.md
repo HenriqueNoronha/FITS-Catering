@@ -103,7 +103,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- README.md template from Code Institute @ https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md.
-- README.md example from Code Institute @ https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md.
+- README.md template from Code Institute - https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md.
+- README.md example from Code Institute - https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md.
 - For text outline in the logo, instead of using the experimental webkit property called "text-stroke", which is not supported by all browsers, I used the method found @ https://stackoverflow.com/questions/4919076/outline-effect-to-text.
-- 
+- Banner 1 image from Pexels - https://www.pexels.com/photo/standing-person-using-fork-and-knife-on-preparing-food-2814828/

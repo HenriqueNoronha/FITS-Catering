@@ -12,10 +12,13 @@ body {
     font-family: Oswald;
 }
 
+#logo, #navigation {
+    line-height: 75px;
+}
+
 /*-----------------------LOGO/HEADER-----------------------*/
 
-header h1 {
-    line-height: 65px;
+#logo {
     letter-spacing: 3px;
     text-transform: uppercase;
     margin: 0;
@@ -24,10 +27,97 @@ header h1 {
     font-size: 46px;
     padding-left: 20px;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    float: left;
 }
 
 /*-----------------------NAVBAR-----------------------*/
 
 #navigation {
+    font-size: 120%;
+    list-style-type: none;
+    letter-spacing: 3px;
+    float: right;
+}
 
+#navigation li {
+    margin-right: 30px;
+    display: table-cell;
+    float:left;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: #ef0b33;
+}
+
+#navigation a:hover {
+    border-bottom: 3px solid #0b41ac;
+}
+
+.active {
+    border-bottom: 3px solid #0b41ac;
+}
+
+@media screen and (max-width: 767px) {
+    #navigation {
+        display: block;
+        align-items: center;
+        float: none;
+        padding-left: 20px;
+    }
+}
+
+/*-----------------------MAIN-----------------------*/
+
+.masthead {
+    padding: 70px 0 0 0;
+}
+
+.masthead-banner {
+    background: url("../images/pexels-fidel-hajj-2814828.jpg") no-repeat center;
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.masthead-banner-text {
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    background: rgba(239, 11, 51, 0.2);
+    color: #e0dee4;
+    padding: 40px 0 40px 0;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.masthead-banner-text h1{
+    font-size: 80px;
+    color: #fff
+}
+
+.masthead-banner-text h2 {
+    font-size: 50px;
+    color: #fff;
+}
+
+.masthead-banner-text h3 {
+    font-size: 40px;
+    color: #fff;
+}
+
+@media screen and (max-width: 767px) {
+    .masthead-banner-text {
+        height: 180px;
+        padding: 24px 0 24px 0;
+    }
+    .masthead-banner-text h1 {
+        font-size: 40px;
+    }
+    .masthead-banner-text h2 {
+        font-size: 30px;
+    }
+    .masthead-banner-text h3 {
+    font-size: 20px;
+    }
 }
