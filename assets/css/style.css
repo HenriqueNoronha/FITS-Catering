@@ -60,6 +60,8 @@ body {
 
 @media screen and (max-width: 767px) {
     #navigation {
+        clear: left;
+        float: left;
         display: block;
         align-items: center;
         float: none;
@@ -67,7 +69,7 @@ body {
     }
 }
 
-/*-----------------------MAIN-----------------------*/
+/*-----------------------MASTHEAD-----------------------*/
 
 .masthead {
     padding: 70px 0 0 0;
@@ -120,4 +122,28 @@ body {
     .masthead-banner-text h3 {
     font-size: 20px;
     }
+}
+
+/*-----------------------ABOUT SECTION-----------------------*/
+
+.about-section {
+    background-color: #f8f9fa;
+    margin-top: 30px;
+    box-shadow: inset 0vw 5vw 5vw 0vw white; /* This line of code was researched and taken from - https://stackoverflow.com/questions/46135078/can-i-blur-the-border-of-a-div-css */
+}
+
+.about-section-text {
+    color: #000;
+    padding-top: 50px;
+}
+    
+
+.about-image img {
+    opacity: 0.4;
+}
+
+/*-----------------------GENERAL INFO-----------------------*/
+
+.general-info {
+    margin-top: 30px;
 }
